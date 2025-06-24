@@ -1,4 +1,4 @@
-name: Solar System Workflow
+name: Solar System Workflows
 
 on:
   workflow_dispatch:
@@ -26,5 +26,4 @@ jobs:
       - name: Unit Testing
         run: npm test
 
-        
 
